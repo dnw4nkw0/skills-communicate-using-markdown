@@ -13,3 +13,7 @@ import sys
 from time import sleep
 import pygame
 ```
+
+- [x] List syntax is here
+- [ ] I don't know why I couldn't fulfill this requirement
+- [x] I have conquered the world.
